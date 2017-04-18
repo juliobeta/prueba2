@@ -3,12 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package prueba2.deisy;
+
+package jeffo;
 
 /**
  *
- * @author ADMINS
+ * @author Jefferson
  */
-public class pruebadeisy {
+public class personas {
+    public static void main(String[] args) {
+        System.out.println("hola"); 
+    }
     
 }

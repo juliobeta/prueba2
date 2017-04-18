@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pruebadeisy;
+
+package jeffo;
 
 /**
  *
- * @author ADMINS
+ * @author Jefferson
  */
-public class deisy {
+public class Jeffo {
     
 }
